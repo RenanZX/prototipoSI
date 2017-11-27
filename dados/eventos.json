@@ -1,0 +1,4709 @@
+{
+    "48599": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-27T16:00",
+        "descricaoSituacao": "N\u00e3o Confirmada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 48599,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 10",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CULTURA",
+                "id": 536996,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Cultura",
+                "sigla": "CCULT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+            },
+            {
+                "apelido": "EDUCA\u00c7\u00c3O",
+                "id": 2009,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Educa\u00e7\u00e3o",
+                "sigla": "CE",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Conjunta das Comiss\u00f5es CCULT e CE",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/48599"
+    },
+    "49413": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T16:30",
+        "descricaoSituacao": "N\u00e3o Confirmada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 49413,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 01",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA",
+                "id": 2003,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania",
+                "sigla": "CCJC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+            },
+            {
+                "apelido": "SEGURIDADE SOCIAL E FAM\u00cdLIA",
+                "id": 2014,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Seguridade Social e Fam\u00edlia",
+                "sigla": "CSSF",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Conjunta das Comiss\u00f5es CCJC e CSSF",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49413"
+    },
+    "49672": {
+        "dataHoraFim": "2017-11-23T15:29",
+        "dataHoraInicio": "2017-11-23T11:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 49672,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 04",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "SEGURAN\u00c7A P\u00daBLICA E COMBATE AO CRIME ORGANIZADO",
+                "id": 5503,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Seguran\u00e7a P\u00fablica e Combate ao Crime Organizado",
+                "sigla": "CSPCCO",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49672"
+    },
+    "49723": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T18:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 49723,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 06",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "SEGURAN\u00c7A P\u00daBLICA E COMBATE AO CRIME ORGANIZADO",
+                "id": 5503,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Seguran\u00e7a P\u00fablica e Combate ao Crime Organizado",
+                "sigla": "CSPCCO",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49723"
+    },
+    "49781": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 49781,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 04",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CESPO-SUBCOMISS\u00c3O PERMANENTE FUTEBOL BRASILEIRO",
+                "id": 537513,
+                "idTipoOrgao": 25,
+                "nome": "Subcomiss\u00e3o Permanente do Futebol Brasileiro.",
+                "sigla": "SUBFUTEB",
+                "tipoOrgao": "Subcomiss\u00e3o",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537513"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49781"
+    },
+    "49831": {
+        "dataHoraFim": "2017-11-23T14:33",
+        "dataHoraInicio": "2017-11-23T11:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 49831,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 16",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DESENVOLVIMENTO URBANO",
+                "id": 2006,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Desenvolvimento Urbano",
+                "sigla": "CDU",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49831"
+    },
+    "49836": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T13:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 49836,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 09",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "FISCALIZA\u00c7\u00c3O FINANCEIRA E CONTROLE",
+                "id": 2011,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Fiscaliza\u00e7\u00e3o Financeira e Controle",
+                "sigla": "CFFC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2011"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49836"
+    },
+    "49896": {
+        "dataHoraFim": "2017-11-23T15:17",
+        "dataHoraInicio": "2017-11-23T11:30",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 49896,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 07",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "SEGURIDADE SOCIAL E FAM\u00cdLIA",
+                "id": 2014,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Seguridade Social e Fam\u00edlia",
+                "sigla": "CSSF",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49896"
+    },
+    "49919": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 49919,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 06",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "MEIO AMBIENTE E DESENVOLVIMENTO SUSTENT\u00c1VEL",
+                "id": 6174,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Meio Ambiente e Desenvolvimento Sustent\u00e1vel",
+                "sigla": "CMADS",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49919"
+    },
+    "49931": {
+        "dataHoraFim": "2017-11-22T18:51",
+        "dataHoraInicio": "2017-11-22T16:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 49931,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 08",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "MEIO AMBIENTE E DESENVOLVIMENTO SUSTENT\u00c1VEL",
+                "id": 6174,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Meio Ambiente e Desenvolvimento Sustent\u00e1vel",
+                "sigla": "CMADS",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49931"
+    },
+    "49951": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T16:00",
+        "descricaoSituacao": "N\u00e3o Confirmada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 49951,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 05",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "TURISMO",
+                "id": 6066,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Turismo",
+                "sigla": "CTUR",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6066"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49951"
+    },
+    "49953": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T11:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 49953,
+        "localCamara": {
+            "andar": null,
+            "nome": "Audit\u00f3rio Nereu Ramos",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "Eventos",
+                "id": 100950,
+                "idTipoOrgao": 3,
+                "nome": "Eventos",
+                "sigla": "EVENTOS",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100950"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49953"
+    },
+    "49956": {
+        "dataHoraFim": "2017-11-22T13:41",
+        "dataHoraInicio": "2017-11-22T12:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 49956,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 15",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "INTEGRA\u00c7\u00c3O NACIONAL, DESENV. REGIONAL E AMAZ\u00d4NIA",
+                "id": 2017,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Integra\u00e7\u00e3o Nacional, Desenvolvimento Regional e da Amaz\u00f4nia",
+                "sigla": "CINDRA",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49956"
+    },
+    "49959": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T15:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 49959,
+        "localCamara": {
+            "andar": null,
+            "nome": "Audit\u00f3rio Nereu Ramos",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "Eventos",
+                "id": 100950,
+                "idTipoOrgao": 3,
+                "nome": "Eventos",
+                "sigla": "EVENTOS",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100950"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49959"
+    },
+    "49986": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-30T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 49986,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 11",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "VIA\u00c7\u00c3O E TRANSPORTES",
+                "id": 2016,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Via\u00e7\u00e3o e Transportes",
+                "sigla": "CVT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49986"
+    },
+    "49995": {
+        "dataHoraFim": "2017-11-22T15:52",
+        "dataHoraInicio": "2017-11-22T13:30",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 49995,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 13",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CI\u00caNCIA E TECNOLOGIA, COMUNICA\u00c7\u00c3O E INFORM\u00c1TICA",
+                "id": 2002,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Ci\u00eancia e Tecnologia, Comunica\u00e7\u00e3o e Inform\u00e1tica",
+                "sigla": "CCTCI",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/49995"
+    },
+    "50004": {
+        "dataHoraFim": "2017-11-22T13:00",
+        "dataHoraInicio": "2017-11-22T11:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50004,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 14",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "MINAS E ENERGIA",
+                "id": 2012,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Minas e Energia",
+                "sigla": "CME",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50004"
+    },
+    "50021": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 50021,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 07",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DESENVOLV. ECON\u00d4MICO, IND\u00daSTRIA, COM\u00c9RCIO E SERV.",
+                "id": 2008,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Desenvolvimento Econ\u00f4mico, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os",
+                "sigla": "CDEICS",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50021"
+    },
+    "50037": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-30T11:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50037,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 05",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DESENVOLV. ECON\u00d4MICO, IND\u00daSTRIA, COM\u00c9RCIO E SERV.",
+                "id": 2008,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Desenvolvimento Econ\u00f4mico, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os",
+                "sigla": "CDEICS",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50037"
+    },
+    "50047": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T16:30",
+        "descricaoSituacao": "Encerrada (Termo)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50047,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 07",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PL 0827/15 - LEI DE PROTE\u00c7\u00c3O DE CULTIVARES",
+                "id": 537503,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer ao Projeto de Lei n\u00ba 827, de 2015, do Sr. Dilceu Sperafico, que \"altera a Lei n\u00ba 9.456, de 25 de abril de 1997, que institui a Lei de Prote\u00e7\u00e3o de Cultivares e d\u00e1 outras provid\u00eancias\"",
+                "sigla": "PL082715",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537503"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50047"
+    },
+    "50048": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T15:30",
+        "descricaoSituacao": "Encerrada (Termo)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50048,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 10",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CULTURA",
+                "id": 536996,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Cultura",
+                "sigla": "CCULT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50048"
+    },
+    "50059": {
+        "dataHoraFim": "2017-11-22T21:19",
+        "dataHoraInicio": "2017-11-22T18:30",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50059,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 06",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "SEGURAN\u00c7A P\u00daBLICA E COMBATE AO CRIME ORGANIZADO",
+                "id": 5503,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Seguran\u00e7a P\u00fablica e Combate ao Crime Organizado",
+                "sigla": "CSPCCO",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50059"
+    },
+    "50060": {
+        "dataHoraFim": "2017-11-22T23:14",
+        "dataHoraInicio": "2017-11-22T16:30",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 50060,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 10",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CULTURA",
+                "id": 536996,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Cultura",
+                "sigla": "CCULT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50060"
+    },
+    "50062": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T15:30",
+        "descricaoSituacao": "Cancelada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50062,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 10",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CULTURA",
+                "id": 536996,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Cultura",
+                "sigla": "CCULT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50062"
+    },
+    "50063": {
+        "dataHoraFim": "2017-11-23T14:24",
+        "dataHoraInicio": "2017-11-23T12:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 50063,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 10",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CULTURA",
+                "id": 536996,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Cultura",
+                "sigla": "CCULT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50063"
+    },
+    "50064": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-30T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50064,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 10",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CULTURA",
+                "id": 536996,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Cultura",
+                "sigla": "CCULT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50064"
+    },
+    "50066": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T17:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50066,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 10",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CULTURA",
+                "id": 536996,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Cultura",
+                "sigla": "CCULT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50066"
+    },
+    "50069": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T16:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50069,
+        "localCamara": {
+            "andar": null,
+            "nome": "A Definir",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PL 7419/06 - PLANOS DE SA\u00daDE",
+                "id": 537927,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer ao Projeto de Lei n\u00ba 7419, de 2006, do Senado Federal, que \"altera a Lei n\u00ba 9.656, de 3 de junho de 1998, que disp\u00f5e sobre os planos e seguros privados de assist\u00eancia \u00e0 sa\u00fade\", e apensados",
+                "sigla": "PL741906",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537927"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50069"
+    },
+    "50077": {
+        "dataHoraFim": "2017-11-22T14:36",
+        "dataHoraInicio": "2017-11-22T12:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50077,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 13",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CI\u00caNCIA E TECNOLOGIA, COMUNICA\u00c7\u00c3O E INFORM\u00c1TICA",
+                "id": 2002,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Ci\u00eancia e Tecnologia, Comunica\u00e7\u00e3o e Inform\u00e1tica",
+                "sigla": "CCTCI",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50077"
+    },
+    "50078": {
+        "dataHoraFim": "2017-11-22T14:22",
+        "dataHoraInicio": "2017-11-22T13:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50078,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 14",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "MINAS E ENERGIA",
+                "id": 2012,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Minas e Energia",
+                "sigla": "CME",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50078"
+    },
+    "50081": {
+        "dataHoraFim": "2017-11-22T14:08",
+        "dataHoraInicio": "2017-11-22T12:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50081,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 06",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "AGRICULTURA, PECU\u00c1RIA, ABASTECIMENTO DESENV. RURAL",
+                "id": 2001,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Agricultura, Pecu\u00e1ria, Abastecimento e Desenvolvimento Rural",
+                "sigla": "CAPADR",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50081"
+    },
+    "50082": {
+        "dataHoraFim": "2017-11-22T14:08",
+        "dataHoraInicio": "2017-11-22T12:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50082,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 02",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "MEIO AMBIENTE E DESENVOLVIMENTO SUSTENT\u00c1VEL",
+                "id": 6174,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Meio Ambiente e Desenvolvimento Sustent\u00e1vel",
+                "sigla": "CMADS",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50082"
+    },
+    "50083": {
+        "dataHoraFim": "2017-11-22T14:50",
+        "dataHoraInicio": "2017-11-22T11:30",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50083,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 08",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DEFESA DO CONSUMIDOR",
+                "id": 2004,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Defesa do Consumidor",
+                "sigla": "CDC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50083"
+    },
+    "50086": {
+        "dataHoraFim": "2017-11-22T13:22",
+        "dataHoraInicio": "2017-11-22T11:30",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50086,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 05",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DESENVOLV. ECON\u00d4MICO, IND\u00daSTRIA, COM\u00c9RCIO E SERV.",
+                "id": 2008,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Desenvolvimento Econ\u00f4mico, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os",
+                "sigla": "CDEICS",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50086"
+    },
+    "50087": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T16:00",
+        "descricaoSituacao": "Cancelada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50087,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 13",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DEFESA DOS DIREITOS DAS PESSOAS COM DEFICI\u00caNCIA",
+                "id": 537480,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Defesa dos Direitos das Pessoas com Defici\u00eancia",
+                "sigla": "CPD",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50087"
+    },
+    "50088": {
+        "dataHoraFim": "2017-11-23T15:46",
+        "dataHoraInicio": "2017-11-23T12:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50088,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 06",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "AGRICULTURA, PECU\u00c1RIA, ABASTECIMENTO DESENV. RURAL",
+                "id": 2001,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Agricultura, Pecu\u00e1ria, Abastecimento e Desenvolvimento Rural",
+                "sigla": "CAPADR",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50088"
+    },
+    "50090": {
+        "dataHoraFim": "2017-11-22T14:47",
+        "dataHoraInicio": "2017-11-22T11:30",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50090,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 07",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "SEGURIDADE SOCIAL E FAM\u00cdLIA",
+                "id": 2014,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Seguridade Social e Fam\u00edlia",
+                "sigla": "CSSF",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50090"
+    },
+    "50091": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T13:00",
+        "descricaoSituacao": "Encerrada (Termo)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50091,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 02",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CMADS-SUBCOMISS\u00c3O PERM EM DEFESA DO DIREITO ANIMAL",
+                "id": 538103,
+                "idTipoOrgao": 25,
+                "nome": "Subcomiss\u00e3o Permanente em Defesa do Direito Animal",
+                "sigla": "SUBDAN",
+                "tipoOrgao": "Subcomiss\u00e3o",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538103"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50091"
+    },
+    "50092": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T13:30",
+        "descricaoSituacao": "Encerrada (Termo)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50092,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 06",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "SEGURAN\u00c7A P\u00daBLICA E COMBATE AO CRIME ORGANIZADO",
+                "id": 5503,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Seguran\u00e7a P\u00fablica e Combate ao Crime Organizado",
+                "sigla": "CSPCCO",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50092"
+    },
+    "50094": {
+        "dataHoraFim": "2017-11-22T15:26",
+        "dataHoraInicio": "2017-11-22T13:30",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50094,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 09",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "RELA\u00c7\u00d5ES EXTERIORES E DE DEFESA NACIONAL",
+                "id": 2018,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Rela\u00e7\u00f5es Exteriores e de Defesa Nacional",
+                "sigla": "CREDN",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50094"
+    },
+    "50096": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T16:00",
+        "descricaoSituacao": "N\u00e3o Confirmada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50096,
+        "localCamara": {
+            "andar": null,
+            "nome": "A Definir",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PL 2303/15 - BANCO CENTRAL REGULAR MOEDAS VIRTUAIS",
+                "id": 537810,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer ao Projeto de Lei n\u00ba 2303, de 2015, do Sr. Aureo, que \"disp\u00f5e sobre a inclus\u00e3o das moedas virtuais e programas de milhagem a\u00e9reas na defini\u00e7\u00e3o de 'arranjos de pagamento' sob a supervis\u00e3o do Banco Central\" (altera a Lei n\u00ba 12.865, de 2013 e da Lei 9.613, de 1998)",
+                "sigla": "PL230315",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537810"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50096"
+    },
+    "50097": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T16:00",
+        "descricaoSituacao": "Cancelada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50097,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 05",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "ESPORTE",
+                "id": 537236,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o do Esporte",
+                "sigla": "CESPO",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50097"
+    },
+    "50099": {
+        "dataHoraFim": "2017-11-22T14:59",
+        "dataHoraInicio": "2017-11-22T11:30",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50099,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 10",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "EDUCA\u00c7\u00c3O",
+                "id": 2009,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Educa\u00e7\u00e3o",
+                "sigla": "CE",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50099"
+    },
+    "50100": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T12:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o T\u00e9cnica",
+        "id": 50100,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 01",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CE-SUBCOMISS\u00c3O CAMPUS FORA SEDES UNIVERSIT\u00c1RIAS",
+                "id": 538029,
+                "idTipoOrgao": 25,
+                "nome": "Subcomiss\u00e3o Especial para Tratar da Situa\u00e7\u00e3o dos C\u00e2mpus Fora das Sedes das Universidades Federais e dos Institutos Federais",
+                "sigla": "SUBCAMPI",
+                "tipoOrgao": "Subcomiss\u00e3o",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538029"
+            }
+        ],
+        "titulo": "Reuni\u00e3o T\u00e9cnica",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50100"
+    },
+    "50101": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T16:00",
+        "descricaoSituacao": "Encerrada (Termo)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50101,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 16",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DEFESA DOS DIREITOS DA PESSOA IDOSA",
+                "id": 537871,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Defesa dos Direitos da Pessoa Idosa",
+                "sigla": "CIDOSO",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50101"
+    },
+    "50102": {
+        "dataHoraFim": "2017-11-23T13:18",
+        "dataHoraInicio": "2017-11-23T11:30",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50102,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 03",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "EDUCA\u00c7\u00c3O",
+                "id": 2009,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Educa\u00e7\u00e3o",
+                "sigla": "CE",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50102"
+    },
+    "50113": {
+        "dataHoraFim": "2017-11-23T15:48",
+        "dataHoraInicio": "2017-11-23T12:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50113,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 13",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CI\u00caNCIA E TECNOLOGIA, COMUNICA\u00c7\u00c3O E INFORM\u00c1TICA",
+                "id": 2002,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Ci\u00eancia e Tecnologia, Comunica\u00e7\u00e3o e Inform\u00e1tica",
+                "sigla": "CCTCI",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+            },
+            {
+                "apelido": "SEGURIDADE SOCIAL E FAM\u00cdLIA",
+                "id": 2014,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Seguridade Social e Fam\u00edlia",
+                "sigla": "CSSF",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Conjunta das Comiss\u00f5es CCTCI e CSSF",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50113"
+    },
+    "50118": {
+        "dataHoraFim": "2017-11-22T14:44",
+        "dataHoraInicio": "2017-11-22T12:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50118,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 04",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "FINAN\u00c7AS E TRIBUTA\u00c7\u00c3O",
+                "id": 2010,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o",
+                "sigla": "CFT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50118"
+    },
+    "50120": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50120,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 06",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "AGRICULTURA, PECU\u00c1RIA, ABASTECIMENTO DESENV. RURAL",
+                "id": 2001,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Agricultura, Pecu\u00e1ria, Abastecimento e Desenvolvimento Rural",
+                "sigla": "CAPADR",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50120"
+    },
+    "50122": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-30T11:30",
+        "descricaoSituacao": "Cancelada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50122,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 07",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "SEGURIDADE SOCIAL E FAM\u00cdLIA",
+                "id": 2014,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Seguridade Social e Fam\u00edlia",
+                "sigla": "CSSF",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50122"
+    },
+    "50124": {
+        "dataHoraFim": "2017-11-22T16:21",
+        "dataHoraInicio": "2017-11-22T11:30",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50124,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 11",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "VIA\u00c7\u00c3O E TRANSPORTES",
+                "id": 2016,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Via\u00e7\u00e3o e Transportes",
+                "sigla": "CVT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50124"
+    },
+    "50125": {
+        "dataHoraFim": "2017-11-23T12:47",
+        "dataHoraInicio": "2017-11-23T11:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Ato Solene de Instala\u00e7\u00e3o",
+        "id": 50125,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 12",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "TRABALHO, ADMINISTRA\u00c7\u00c3O E SERVI\u00c7O P\u00daBLICO",
+                "id": 2015,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico",
+                "sigla": "CTASP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+            }
+        ],
+        "titulo": "Ato Solene de Instala\u00e7\u00e3o",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50125"
+    },
+    "50126": {
+        "dataHoraFim": "2017-11-22T19:29",
+        "dataHoraInicio": "2017-11-22T11:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 50126,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 03",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "RELA\u00c7\u00d5ES EXTERIORES E DE DEFESA NACIONAL",
+                "id": 2018,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Rela\u00e7\u00f5es Exteriores e de Defesa Nacional",
+                "sigla": "CREDN",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50126"
+    },
+    "50127": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-30T11:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50127,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 13",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CI\u00caNCIA E TECNOLOGIA, COMUNICA\u00c7\u00c3O E INFORM\u00c1TICA",
+                "id": 2002,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Ci\u00eancia e Tecnologia, Comunica\u00e7\u00e3o e Inform\u00e1tica",
+                "sigla": "CCTCI",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50127"
+    },
+    "50132": {
+        "dataHoraFim": "2017-11-23T14:32",
+        "dataHoraInicio": "2017-11-23T12:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50132,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 15",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "INTEGRA\u00c7\u00c3O NACIONAL, DESENV. REGIONAL E AMAZ\u00d4NIA",
+                "id": 2017,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Integra\u00e7\u00e3o Nacional, Desenvolvimento Regional e da Amaz\u00f4nia",
+                "sigla": "CINDRA",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50132"
+    },
+    "50139": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T11:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50139,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 03",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "RELA\u00c7\u00d5ES EXTERIORES E DE DEFESA NACIONAL",
+                "id": 2018,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Rela\u00e7\u00f5es Exteriores e de Defesa Nacional",
+                "sigla": "CREDN",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50139"
+    },
+    "50140": {
+        "dataHoraFim": "2017-11-22T15:07",
+        "dataHoraInicio": "2017-11-22T13:30",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50140,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 16",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "COBRAN\u00c7A PELA ANDRADE GUTIERREZ EM DESFAVOR BETIM",
+                "id": 538096,
+                "idTipoOrgao": 5,
+                "nome": "Comiss\u00e3o Externa, sem \u00f4nus para a C\u00e2mara dos Deputados, destinada a verificar a execu\u00e7\u00e3o das obras e avaliar aplica\u00e7\u00e3o dos recursos objeto da cobran\u00e7a de suposta d\u00edvida da Construtora Andrade Gutierrez em desfavor do Munic\u00edpio de Betim-MG",
+                "sigla": "CEXBETIM",
+                "tipoOrgao": "Comiss\u00e3o Externa",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538096"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50140"
+    },
+    "50142": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T11:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50142,
+        "localCamara": {
+            "andar": null,
+            "nome": "Audit\u00f3rio Nereu Ramos",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "RELA\u00c7\u00d5ES EXTERIORES E DE DEFESA NACIONAL",
+                "id": 2018,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Rela\u00e7\u00f5es Exteriores e de Defesa Nacional",
+                "sigla": "CREDN",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50142"
+    },
+    "50144": {
+        "dataHoraFim": "2017-11-22T19:58",
+        "dataHoraInicio": "2017-11-22T17:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50144,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 13",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DEFESA DOS DIREITOS DAS PESSOAS COM DEFICI\u00caNCIA",
+                "id": 537480,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Defesa dos Direitos das Pessoas com Defici\u00eancia",
+                "sigla": "CPD",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50144"
+    },
+    "50147": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T17:30",
+        "descricaoSituacao": "N\u00e3o Confirmada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50147,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 16",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "TRABALHO, ADMINISTRA\u00c7\u00c3O E SERVI\u00c7O P\u00daBLICO",
+                "id": 2015,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico",
+                "sigla": "CTASP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+            },
+            {
+                "apelido": "LEGISLA\u00c7\u00c3O PARTICIPATIVA",
+                "id": 5438,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Legisla\u00e7\u00e3o Participativa",
+                "sigla": "CLP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5438"
+            },
+            {
+                "apelido": "DEFESA DOS DIREITOS DA PESSOA IDOSA",
+                "id": 537871,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Defesa dos Direitos da Pessoa Idosa",
+                "sigla": "CIDOSO",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Conjunta das Comiss\u00f5es CIDOSO, CLP e CTASP",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50147"
+    },
+    "50150": {
+        "dataHoraFim": "2017-11-22T14:46",
+        "dataHoraInicio": "2017-11-22T12:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50150,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 12",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "TRABALHO, ADMINISTRA\u00c7\u00c3O E SERVI\u00c7O P\u00daBLICO",
+                "id": 2015,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico",
+                "sigla": "CTASP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50150"
+    },
+    "50157": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T15:00",
+        "descricaoSituacao": "Cancelada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50157,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 03",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "LEGISLA\u00c7\u00c3O PARTICIPATIVA",
+                "id": 5438,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Legisla\u00e7\u00e3o Participativa",
+                "sigla": "CLP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5438"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50157"
+    },
+    "50162": {
+        "dataHoraFim": "2017-11-23T19:16",
+        "dataHoraInicio": "2017-11-23T16:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 50162,
+        "localCamara": {
+            "andar": null,
+            "nome": "Memorial do Legislativo no Centro Hist\u00f3rico de Porto Alegre/RS ",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "TRABALHO, ADMINISTRA\u00c7\u00c3O E SERVI\u00c7O P\u00daBLICO",
+                "id": 2015,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico",
+                "sigla": "CTASP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50162"
+    },
+    "50164": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50164,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 03",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "LEGISLA\u00c7\u00c3O PARTICIPATIVA",
+                "id": 5438,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Legisla\u00e7\u00e3o Participativa",
+                "sigla": "CLP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5438"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50164"
+    },
+    "50165": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-23T11:30",
+        "descricaoSituacao": "Cancelada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50165,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 03",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "LEGISLA\u00c7\u00c3O PARTICIPATIVA",
+                "id": 5438,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Legisla\u00e7\u00e3o Participativa",
+                "sigla": "CLP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5438"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50165"
+    },
+    "50167": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50167,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 15",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PL 2438/15 - ENFRENTAMENTO AO HOMIC\u00cdDIO DE JOVENS",
+                "id": 537745,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer ao Projeto de Lei n\u00ba 2438, de 2015, da Comiss\u00e3o Parlamentar de Inqu\u00e9rito destinada a apurar as causas, raz\u00f5es, consequ\u00eancias, custos sociais e econ\u00f4micos da viol\u00eancia, morte e desaparecimento de jovens negros e pobres no Brasil, que \"institui o Plano Nacional de Enfrentamento ao Homic\u00eddio de Jovens, estabelece a sua avalia\u00e7\u00e3o e d\u00e1 outras provid\u00eancias\"",
+                "sigla": "PL243815",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537745"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50167"
+    },
+    "50170": {
+        "dataHoraFim": "2017-11-22T19:17",
+        "dataHoraInicio": "2017-11-22T17:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50170,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 01",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA",
+                "id": 2003,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania",
+                "sigla": "CCJC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50170"
+    },
+    "50171": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-30T11:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50171,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 08",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "MEIO AMBIENTE E DESENVOLVIMENTO SUSTENT\u00c1VEL",
+                "id": 6174,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Meio Ambiente e Desenvolvimento Sustent\u00e1vel",
+                "sigla": "CMADS",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50171"
+    },
+    "50172": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-30T11:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50172,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 10",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "EDUCA\u00c7\u00c3O",
+                "id": 2009,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Educa\u00e7\u00e3o",
+                "sigla": "CE",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50172"
+    },
+    "50174": {
+        "dataHoraFim": "2017-11-22T19:38",
+        "dataHoraInicio": "2017-11-22T16:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50174,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 11",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PL 8456/17 - ALTERA A CARGA TRIBUT\u00c1RIA",
+                "id": 538083,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer ao Projeto de Lei n\u00ba 8456, de 2017, do Poder Executivo, que \"altera a Lei n\u00ba 12.546, de 14 de dezembro de 2011, quanto \u00e0 contribui\u00e7\u00e3o previdenci\u00e1ria sobre a receita bruta, a Lei n\u00ba 8.212, de 24 de julho de 1991, a Lei n\u00ba 8.218, de 29 de agosto de 1991, a Lei n\u00ba 9.430, de 27 de dezembro de 1996, a Lei n\u00ba 10.833, de 29 de dezembro de 2003, e a Lei n\u00ba 11.457, de 16 de mar\u00e7o de 2007\"",
+                "sigla": "PL845617",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538083"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50174"
+    },
+    "50175": {
+        "dataHoraFim": "2017-11-22T15:18",
+        "dataHoraInicio": "2017-11-22T11:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50175,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 01",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA",
+                "id": 2003,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania",
+                "sigla": "CCJC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50175"
+    },
+    "50178": {
+        "dataHoraFim": "2017-11-22T20:36",
+        "dataHoraInicio": "2017-11-22T15:30",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 50178,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 02",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DESENVOLVIMENTO URBANO",
+                "id": 2006,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Desenvolvimento Urbano",
+                "sigla": "CDU",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50178"
+    },
+    "50180": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T11:00",
+        "descricaoSituacao": "Em Andamento",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 50180,
+        "localCamara": {
+            "andar": null,
+            "nome": "Audit\u00f3rio Nereu Ramos",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "SECRETARIA DA MULHER",
+                "id": 537239,
+                "idTipoOrgao": 15,
+                "nome": "Secretaria da Mulher",
+                "sigla": "SEMULHER",
+                "tipoOrgao": "COORDENADORIA DA MULHER",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537239"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50180"
+    },
+    "50181": {
+        "dataHoraFim": "2017-11-23T13:27",
+        "dataHoraInicio": "2017-11-23T12:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50181,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 11",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "FISCALIZA\u00c7\u00c3O FINANCEIRA E CONTROLE",
+                "id": 2011,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Fiscaliza\u00e7\u00e3o Financeira e Controle",
+                "sigla": "CFFC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2011"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50181"
+    },
+    "50182": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Outro Evento",
+        "id": 50182,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 07",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "SEGURIDADE SOCIAL E FAM\u00cdLIA",
+                "id": 2014,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Seguridade Social e Fam\u00edlia",
+                "sigla": "CSSF",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+            }
+        ],
+        "titulo": "Outro Evento",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50182"
+    },
+    "50183": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T11:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50183,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 14",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "MINAS E ENERGIA",
+                "id": 2012,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Minas e Energia",
+                "sigla": "CME",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50183"
+    },
+    "50184": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-23T11:00",
+        "descricaoSituacao": "N\u00e3o Confirmada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50184,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 08",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "MEIO AMBIENTE E DESENVOLVIMENTO SUSTENT\u00c1VEL",
+                "id": 6174,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Meio Ambiente e Desenvolvimento Sustent\u00e1vel",
+                "sigla": "CMADS",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+            },
+            {
+                "apelido": "DIREITOS HUMANOS E MINORIAS",
+                "id": 2007,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Direitos Humanos e Minorias",
+                "sigla": "CDHM",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2007"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Conjunta das Comiss\u00f5es CDHM e CMADS",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50184"
+    },
+    "50188": {
+        "dataHoraFim": "2017-11-23T14:01",
+        "dataHoraInicio": "2017-11-23T12:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50188,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 14",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "VIA\u00c7\u00c3O E TRANSPORTES",
+                "id": 2016,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Via\u00e7\u00e3o e Transportes",
+                "sigla": "CVT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50188"
+    },
+    "50189": {
+        "dataHoraFim": "2017-11-23T16:10",
+        "dataHoraInicio": "2017-11-23T12:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50189,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 12",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "TRABALHO, ADMINISTRA\u00c7\u00c3O E SERVI\u00c7O P\u00daBLICO",
+                "id": 2015,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico",
+                "sigla": "CTASP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50189"
+    },
+    "50190": {
+        "dataHoraFim": "2017-11-22T19:01",
+        "dataHoraInicio": "2017-11-22T17:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50190,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 12",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "ESPORTE",
+                "id": 537236,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o do Esporte",
+                "sigla": "CESPO",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50190"
+    },
+    "50194": {
+        "dataHoraFim": "2017-11-22T15:38",
+        "dataHoraInicio": "2017-11-22T13:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50194,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 15",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DEFESA DOS DIREITOS DA MULHER",
+                "id": 537870,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Defesa dos Direitos da Mulher",
+                "sigla": "CMULHER",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50194"
+    },
+    "50196": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50196,
+        "localCamara": {
+            "andar": null,
+            "nome": "A Definir",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "LEGISLA\u00c7\u00c3O PARTICIPATIVA",
+                "id": 5438,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Legisla\u00e7\u00e3o Participativa",
+                "sigla": "CLP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5438"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50196"
+    },
+    "50197": {
+        "dataHoraFim": "2017-11-22T13:36",
+        "dataHoraInicio": "2017-11-22T12:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50197,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 16",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DESENVOLVIMENTO URBANO",
+                "id": 2006,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Desenvolvimento Urbano",
+                "sigla": "CDU",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50197"
+    },
+    "50205": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T18:00",
+        "descricaoSituacao": "Encerrada (Termo)",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50205,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 15",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CESP - MARCO REGULAT\u00d3RIO DA ECONOMIA COLABORATIVA",
+                "id": 537954,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial do Marco Regulat\u00f3rio da Economia Colaborativa",
+                "sigla": "CEECON",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537954"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50205"
+    },
+    "50206": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T18:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50206,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 10",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CESP - MARCO REGULAT\u00d3RIO DA ECONOMIA COLABORATIVA",
+                "id": 537954,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial do Marco Regulat\u00f3rio da Economia Colaborativa",
+                "sigla": "CEECON",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537954"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50206"
+    },
+    "50207": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:30",
+        "descricaoSituacao": "N\u00e3o Confirmada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50207,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 13",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DESAPARECIMENTO DEZENOVE BRASILEIROS NAS BAHAMAS",
+                "id": 537995,
+                "idTipoOrgao": 5,
+                "nome": "Comiss\u00e3o Externa destinada a acompanhar os trabalhos de investiga\u00e7\u00e3o do desaparecimento de dezenove brasileiros, durante a travessia das Bahamas, para entrar nos Estados Unidos",
+                "sigla": "CEXDESAP",
+                "tipoOrgao": "Comiss\u00e3o Externa",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537995"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50207"
+    },
+    "50208": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T17:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50208,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 13",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CPD-SUBCOMISS\u00c3O ESPECIAL REGULAMENTA\u00c7\u00c3O LIBRAS",
+                "id": 538066,
+                "idTipoOrgao": 25,
+                "nome": "Subcomiss\u00e3o Especial para discutir e propor regulamenta\u00e7\u00e3o e outras provid\u00eancias afetas ao exerc\u00edcio profissional dos int\u00e9rpretes, guiaint\u00e9rpretes e tradutores da L\u00edngua Brasileira de Sinais \u2013 LIBRAS.",
+                "sigla": "SUBLIBRA",
+                "tipoOrgao": "Subcomiss\u00e3o",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538066"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50208"
+    },
+    "50209": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-12-01T11:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 50209,
+        "localCamara": {
+            "andar": null,
+            "nome": "PROPRI\u00c1- SERGIPE",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "MEIO AMBIENTE E DESENVOLVIMENTO SUSTENT\u00c1VEL",
+                "id": 6174,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Meio Ambiente e Desenvolvimento Sustent\u00e1vel",
+                "sigla": "CMADS",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50209"
+    },
+    "50210": {
+        "dataHoraFim": "2017-11-22T13:09",
+        "dataHoraInicio": "2017-11-22T12:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50210,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 09",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "FISCALIZA\u00c7\u00c3O FINANCEIRA E CONTROLE",
+                "id": 2011,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Fiscaliza\u00e7\u00e3o Financeira e Controle",
+                "sigla": "CFFC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2011"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50210"
+    },
+    "50211": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T16:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50211,
+        "localCamara": {
+            "andar": null,
+            "nome": "A Definir",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PL 4860/16 - TRANSPORTE RODOVI\u00c1RIO DE CARGAS",
+                "id": 537862,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer ao Projeto de Lei n\u00ba 4860, de 2016, da Sra. Christiane de Souza Yared, que \"institui normas para regula\u00e7\u00e3o do transporte rodovi\u00e1rio de cargas em territ\u00f3rio nacional e d\u00e1 outras provid\u00eancias\"",
+                "sigla": "PL486016",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537862"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50211"
+    },
+    "50215": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50215,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 11",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "VIA\u00c7\u00c3O E TRANSPORTES",
+                "id": 2016,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Via\u00e7\u00e3o e Transportes",
+                "sigla": "CVT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50215"
+    },
+    "50217": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T13:30",
+        "descricaoSituacao": "Cancelada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50217,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 11",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "VIA\u00c7\u00c3O E TRANSPORTES",
+                "id": 2016,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Via\u00e7\u00e3o e Transportes",
+                "sigla": "CVT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50217"
+    },
+    "50221": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 50221,
+        "localCamara": {
+            "andar": null,
+            "nome": "Audit\u00f3rio Nereu Ramos",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DEFESA DOS DIREITOS DA MULHER",
+                "id": 537870,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Defesa dos Direitos da Mulher",
+                "sigla": "CMULHER",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50221"
+    },
+    "50223": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-24T15:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Semin\u00e1rio",
+        "id": 50223,
+        "localCamara": {
+            "andar": null,
+            "nome": "C\u00e2mara Municipal de Frutal/MG - Rua Osvaldo Cruz, 145",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "VIA\u00c7\u00c3O E TRANSPORTES",
+                "id": 2016,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Via\u00e7\u00e3o e Transportes",
+                "sigla": "CVT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+            }
+        ],
+        "titulo": "Semin\u00e1rio",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50223"
+    },
+    "50230": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-23T12:00",
+        "descricaoSituacao": "Cancelada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50230,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 02",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "COMISS\u00c3O MISTA DE OR\u00c7AMENTO",
+                "id": 6855,
+                "idTipoOrgao": 6,
+                "nome": "Comiss\u00e3o Mista de Planos, Or\u00e7amentos P\u00fablicos e Fiscaliza\u00e7\u00e3o",
+                "sigla": "CMO",
+                "tipoOrgao": "Comiss\u00e3o Mista Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6855"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50230"
+    },
+    "50238": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T13:00",
+        "descricaoSituacao": "Encerrada (Termo)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50238,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 05",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PEC 302/17 - VEDA EXTIN\u00c7\u00c3O DE TRIBUNAIS DE CONTAS",
+                "id": 538054,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 302-A, de 2017, do Sr. Moses Rodrigues e outros, que \"altera o \u00a7 1\u00ba do art. 31 e o art. 75 da Constitui\u00e7\u00e3o Federal para estabelecer os Tribunais de Contas como \u00f3rg\u00e3os permanentes e essenciais ao controle externo da administra\u00e7\u00e3o p\u00fablica\"",
+                "sigla": "PEC30217",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538054"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50238"
+    },
+    "50240": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-30T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50240,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 04",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "FINAN\u00c7AS E TRIBUTA\u00c7\u00c3O",
+                "id": 2010,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o",
+                "sigla": "CFT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+            },
+            {
+                "apelido": "INTEGRA\u00c7\u00c3O NACIONAL, DESENV. REGIONAL E AMAZ\u00d4NIA",
+                "id": 2017,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Integra\u00e7\u00e3o Nacional, Desenvolvimento Regional e da Amaz\u00f4nia",
+                "sigla": "CINDRA",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Conjunta das Comiss\u00f5es CFT e CINDRA",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50240"
+    },
+    "50241": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50241,
+        "localCamara": {
+            "andar": null,
+            "nome": "A Definir",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "FINAN\u00c7AS E TRIBUTA\u00c7\u00c3O",
+                "id": 2010,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o",
+                "sigla": "CFT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50241"
+    },
+    "50244": {
+        "dataHoraFim": "2017-11-23T13:00",
+        "dataHoraInicio": "2017-11-23T11:45",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Outro Evento",
+        "id": 50244,
+        "localCamara": {
+            "andar": null,
+            "nome": "Escola Paulo Freire, em \u00c1guas Lindas/GO",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DEFESA DOS DIREITOS DA MULHER",
+                "id": 537870,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Defesa dos Direitos da Mulher",
+                "sigla": "CMULHER",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+            }
+        ],
+        "titulo": "Outro Evento",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50244"
+    },
+    "50245": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T18:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o de Instala\u00e7\u00e3o e Elei\u00e7\u00e3o",
+        "id": 50245,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 12",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PL 6621/16 - AG\u00caNCIAS REGULADORAS",
+                "id": 537974,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer ao Projeto de Lei n\u00ba 6621, de 2016, do Senado Federal, que \"disp\u00f5e sobre a gest\u00e3o, a organiza\u00e7\u00e3o, o processo decis\u00f3rio e o controle social das ag\u00eancias reguladoras, altera a Lei n\u00ba 9.427, de 26 de dezembro de 1996, a Lei n\u00ba 9.472, de 16 de julho de 1997, a Lei n\u00ba 9.478, de 6 de agosto de 1997, a Lei n\u00ba 9.782, de 26 de janeiro de 1999, a Lei n\u00ba 9.961, de 28 de janeiro de 2000, a Lei n\u00ba 9.984, de 17 de julho de 2000, a Lei n\u00ba 9.986, de 18 de julho de 2000, a Lei n\u00ba 10.233, de 5 de junho de 2001, a Medida Provis\u00f3ria n\u00ba 2.228-1, de 6 de setembro de 2001, a Lei n\u00ba 11.182, de 27 de setembro de 2005, e a Lei n\u00ba 10.180, de 6 de fevereiro de 2001, e d\u00e1 outras provid\u00eancias\"",
+                "sigla": "PL662116",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537974"
+            }
+        ],
+        "titulo": "Reuni\u00e3o de Instala\u00e7\u00e3o e Elei\u00e7\u00e3o Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50245"
+    },
+    "50246": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50246,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 12",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CESP - SISTEMA PENITENCI\u00c1RIO",
+                "id": 537998,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a propor medidas para a moderniza\u00e7\u00e3o e reestrutura\u00e7\u00e3o do Sistema Penitenci\u00e1rio",
+                "sigla": "CEPENITE",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537998"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50246"
+    },
+    "50247": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T16:00",
+        "descricaoSituacao": "Encerrada (Termo)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50247,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 09",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CONSELHO DE \u00c9TICA E DECORO PARLAMENTAR",
+                "id": 5971,
+                "idTipoOrgao": 11,
+                "nome": "Conselho de \u00c9tica e Decoro Parlamentar da C\u00e2mara dos Deputados",
+                "sigla": "COETICA",
+                "tipoOrgao": "Conselho",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5971"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50247"
+    },
+    "50250": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T12:00",
+        "descricaoSituacao": "Cancelada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50250,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 01",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA",
+                "id": 2003,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania",
+                "sigla": "CCJC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50250"
+    },
+    "50252": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50252,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Sala 175B Piso Superior",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "SITUA\u00c7\u00c3O H\u00cdDRICA DOS MUNIC\u00cdPIOS DE MINAS GERAIS",
+                "id": 538036,
+                "idTipoOrgao": 5,
+                "nome": "Comiss\u00e3o Externa destinada a acompanhar a situa\u00e7\u00e3o h\u00eddrica dos munic\u00edpios no Estado de Minas Gerais",
+                "sigla": "CEXHIDMG",
+                "tipoOrgao": "Comiss\u00e3o Externa",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538036"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50252"
+    },
+    "50253": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T16:00",
+        "descricaoSituacao": "Cancelada",
+        "descricaoTipo": "Reuni\u00e3o de Instala\u00e7\u00e3o e Elei\u00e7\u00e3o",
+        "id": 50253,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 12",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PEC 288/16 - ALTERA\u00c7\u00c3O DA COMPOSI\u00c7\u00c3O DO CNMP",
+                "id": 538055,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 288-A, de 2016, do Sr. Delegado Edson Moreira e outros, que \"d\u00e1 nova reda\u00e7\u00e3o ao artigo 130- A,  da Constitui\u00e7\u00e3o Federal, alterando o seu caput e dando nova reda\u00e7\u00e3o aos seus incisos IV, V e VI, e acresce-lhe os incisos VII, VIII e IX, dispondo sobre a composi\u00e7\u00e3o do Conselho Nacional do Minist\u00e9rio P\u00fablico\"",
+                "sigla": "PEC28816",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538055"
+            }
+        ],
+        "titulo": "Reuni\u00e3o de Instala\u00e7\u00e3o e Elei\u00e7\u00e3o Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50253"
+    },
+    "50254": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T16:00",
+        "descricaoSituacao": "Encerrada (Termo)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50254,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 15",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CONSTRU\u00c7\u00c3O DA FERROVIA NOVA TRANSNORDESTINA",
+                "id": 537794,
+                "idTipoOrgao": 5,
+                "nome": "Comiss\u00e3o Externa com o objetivo de acompanhar in loco a situa\u00e7\u00e3o em que se encontram as obras que comp\u00f5em o projeto de constru\u00e7\u00e3o da ferrovia Nova Transnordestina e quais as provid\u00eancias que foram e/ou ser\u00e3o adotadas para regularizar a execu\u00e7\u00e3o do projeto, tendo em vista as irregularidades e as responsabilidades apuradas em auditoria realizada pelo TCU",
+                "sigla": "CEXTRANE",
+                "tipoOrgao": "Comiss\u00e3o Externa",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537794"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50254"
+    },
+    "50255": {
+        "dataHoraFim": "2017-11-22T17:13",
+        "dataHoraInicio": "2017-11-22T13:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50255,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 14",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PEC 181/15 - LICEN\u00c7A MATERNIDADE BEBE PREMATURO",
+                "id": 537572,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 181-A, de 2015, do Senado Federal, que \"altera o inciso XVIII do art. 7\u00ba da Constitui\u00e7\u00e3o Federal para dispor sobre a licen\u00e7a-maternidade em caso de parto prematuro\", e apensada",
+                "sigla": "PEC18115",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537572"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50255"
+    },
+    "50256": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50256,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 14",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "MINAS E ENERGIA",
+                "id": 2012,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Minas e Energia",
+                "sigla": "CME",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50256"
+    },
+    "50259": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-22T11:00",
+        "descricaoSituacao": "Encerrada (Termo)",
+        "descricaoTipo": "Sess\u00e3o Deliberativa",
+        "id": 50259,
+        "localCamara": {
+            "andar": null,
+            "nome": "Plen\u00e1rio da C\u00e2mara dos Deputados",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PLEN",
+                "id": 180,
+                "idTipoOrgao": 1,
+                "nome": "PLEN\u00c1RIO",
+                "sigla": "PLEN",
+                "tipoOrgao": "Comiss\u00e3o Diretora",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+            }
+        ],
+        "titulo": "Sess\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50259"
+    },
+    "50260": {
+        "dataHoraFim": "2017-11-22T14:18",
+        "dataHoraInicio": "2017-11-22T12:30",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Sess\u00e3o N\u00e3o Deliberativa Solene",
+        "id": 50260,
+        "localCamara": {
+            "andar": null,
+            "nome": "Plen\u00e1rio da C\u00e2mara dos Deputados",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PLEN",
+                "id": 180,
+                "idTipoOrgao": 1,
+                "nome": "PLEN\u00c1RIO",
+                "sigla": "PLEN",
+                "tipoOrgao": "Comiss\u00e3o Diretora",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+            }
+        ],
+        "titulo": "Sess\u00e3o N\u00e3o Deliberativa Solene",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50260"
+    },
+    "50263": {
+        "dataHoraFim": "2017-11-22T16:15",
+        "dataHoraInicio": "2017-11-22T11:31",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Sess\u00e3o Deliberativa",
+        "id": 50263,
+        "localCamara": {
+            "andar": null,
+            "nome": "Plen\u00e1rio da C\u00e2mara dos Deputados",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PLEN",
+                "id": 180,
+                "idTipoOrgao": 1,
+                "nome": "PLEN\u00c1RIO",
+                "sigla": "PLEN",
+                "tipoOrgao": "Comiss\u00e3o Diretora",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+            }
+        ],
+        "titulo": "Sess\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50263"
+    },
+    "50264": {
+        "dataHoraFim": "2017-11-23T14:17",
+        "dataHoraInicio": "2017-11-23T12:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50264,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 05",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DESENVOLV. ECON\u00d4MICO, IND\u00daSTRIA, COM\u00c9RCIO E SERV.",
+                "id": 2008,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Desenvolvimento Econ\u00f4mico, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os",
+                "sigla": "CDEICS",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50264"
+    },
+    "50265": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T11:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50265,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 05",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DESENVOLV. ECON\u00d4MICO, IND\u00daSTRIA, COM\u00c9RCIO E SERV.",
+                "id": 2008,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Desenvolvimento Econ\u00f4mico, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os",
+                "sigla": "CDEICS",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50265"
+    },
+    "50266": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50266,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 02",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "MEIO AMBIENTE E DESENVOLVIMENTO SUSTENT\u00c1VEL",
+                "id": 6174,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Meio Ambiente e Desenvolvimento Sustent\u00e1vel",
+                "sigla": "CMADS",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50266"
+    },
+    "50267": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T13:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50267,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 02",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CMADS-SUBCOMISS\u00c3O PERM EM DEFESA DO DIREITO ANIMAL",
+                "id": 538103,
+                "idTipoOrgao": 25,
+                "nome": "Subcomiss\u00e3o Permanente em Defesa do Direito Animal",
+                "sigla": "SUBDAN",
+                "tipoOrgao": "Subcomiss\u00e3o",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538103"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50267"
+    },
+    "50269": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50269,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 06",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "SEGURAN\u00c7A P\u00daBLICA E COMBATE AO CRIME ORGANIZADO",
+                "id": 5503,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Seguran\u00e7a P\u00fablica e Combate ao Crime Organizado",
+                "sigla": "CSPCCO",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50269"
+    },
+    "50270": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50270,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 04",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "ESPORTE",
+                "id": 537236,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o do Esporte",
+                "sigla": "CESPO",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50270"
+    },
+    "50271": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T13:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50271,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 05",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PEC 302/17 - VEDA EXTIN\u00c7\u00c3O DE TRIBUNAIS DE CONTAS",
+                "id": 538054,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 302-A, de 2017, do Sr. Moses Rodrigues e outros, que \"altera o \u00a7 1\u00ba do art. 31 e o art. 75 da Constitui\u00e7\u00e3o Federal para estabelecer os Tribunais de Contas como \u00f3rg\u00e3os permanentes e essenciais ao controle externo da administra\u00e7\u00e3o p\u00fablica\"",
+                "sigla": "PEC30217",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538054"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50271"
+    },
+    "50272": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T16:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50272,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 10",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CULTURA",
+                "id": 536996,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Cultura",
+                "sigla": "CCULT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/536996"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50272"
+    },
+    "50273": {
+        "dataHoraFim": "2017-11-22T20:15",
+        "dataHoraInicio": "2017-11-22T16:16",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Sess\u00e3o Deliberativa",
+        "id": 50273,
+        "localCamara": {
+            "andar": null,
+            "nome": "Plen\u00e1rio da C\u00e2mara dos Deputados",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PLEN",
+                "id": 180,
+                "idTipoOrgao": 1,
+                "nome": "PLEN\u00c1RIO",
+                "sigla": "PLEN",
+                "tipoOrgao": "Comiss\u00e3o Diretora",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+            }
+        ],
+        "titulo": "Sess\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50273"
+    },
+    "50274": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50274,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 13",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DEFESA DOS DIREITOS DAS PESSOAS COM DEFICI\u00caNCIA",
+                "id": 537480,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Defesa dos Direitos das Pessoas com Defici\u00eancia",
+                "sigla": "CPD",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50274"
+    },
+    "50276": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T17:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50276,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 07",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PL 7180/14 - ESCOLA SEM PARTIDO",
+                "id": 537874,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer ao Projeto de Lei n\u00ba 7180, de 2014, do Sr. Erivelton Santana, que \"altera o art. 3\u00ba da Lei n\u00ba 9.394, de 20 de dezembro de 1996\" (inclui entre os princ\u00edpios do ensino o respeito \u00e0s convic\u00e7\u00f5es do aluno, de seus pais ou respons\u00e1veis, dando preced\u00eancia aos valores de ordem familiar sobre a educa\u00e7\u00e3o escolar nos aspectos relacionados \u00e0 educa\u00e7\u00e3o moral, sexual e religiosa), e apensados",
+                "sigla": "PL718014",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537874"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50276"
+    },
+    "50278": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o de Instala\u00e7\u00e3o e Elei\u00e7\u00e3o",
+        "id": 50278,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 16",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PEC 288/16 - ALTERA\u00c7\u00c3O DA COMPOSI\u00c7\u00c3O DO CNMP",
+                "id": 538055,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 288-A, de 2016, do Sr. Delegado Edson Moreira e outros, que \"d\u00e1 nova reda\u00e7\u00e3o ao artigo 130- A,  da Constitui\u00e7\u00e3o Federal, alterando o seu caput e dando nova reda\u00e7\u00e3o aos seus incisos IV, V e VI, e acresce-lhe os incisos VII, VIII e IX, dispondo sobre a composi\u00e7\u00e3o do Conselho Nacional do Minist\u00e9rio P\u00fablico\"",
+                "sigla": "PEC28816",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538055"
+            }
+        ],
+        "titulo": "Reuni\u00e3o de Instala\u00e7\u00e3o e Elei\u00e7\u00e3o Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50278"
+    },
+    "50279": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T13:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50279,
+        "localCamara": {
+            "andar": null,
+            "nome": "A Definir",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DEFESA DOS DIREITOS DA MULHER",
+                "id": 537870,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Defesa dos Direitos da Mulher",
+                "sigla": "CMULHER",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537870"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50279"
+    },
+    "50280": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50280,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 13",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CI\u00caNCIA E TECNOLOGIA, COMUNICA\u00c7\u00c3O E INFORM\u00c1TICA",
+                "id": 2002,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Ci\u00eancia e Tecnologia, Comunica\u00e7\u00e3o e Inform\u00e1tica",
+                "sigla": "CCTCI",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50280"
+    },
+    "50281": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T11:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50281,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 07",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "SEGURIDADE SOCIAL E FAM\u00cdLIA",
+                "id": 2014,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Seguridade Social e Fam\u00edlia",
+                "sigla": "CSSF",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50281"
+    },
+    "50282": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T13:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50282,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 14",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "MINAS E ENERGIA",
+                "id": 2012,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Minas e Energia",
+                "sigla": "CME",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50282"
+    },
+    "50283": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50283,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 10",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "EDUCA\u00c7\u00c3O",
+                "id": 2009,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Educa\u00e7\u00e3o",
+                "sigla": "CE",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50283"
+    },
+    "50284": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T11:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50284,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 11",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DEFESA DO CONSUMIDOR",
+                "id": 2004,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Defesa do Consumidor",
+                "sigla": "CDC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2004"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50284"
+    },
+    "50285": {
+        "dataHoraFim": "2017-11-23T13:06",
+        "dataHoraInicio": "2017-11-23T11:00",
+        "descricaoSituacao": "Encerrada (Final)",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50285,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 01",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA",
+                "id": 2003,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania",
+                "sigla": "CCJC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50285"
+    },
+    "50286": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50286,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 14",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DEFESA DOS DIREITOS DA PESSOA IDOSA",
+                "id": 537871,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Defesa dos Direitos da Pessoa Idosa",
+                "sigla": "CIDOSO",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50286"
+    },
+    "50288": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T16:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50288,
+        "localCamara": {
+            "andar": null,
+            "nome": "A Definir",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PL 0827/15 - LEI DE PROTE\u00c7\u00c3O DE CULTIVARES",
+                "id": 537503,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer ao Projeto de Lei n\u00ba 827, de 2015, do Sr. Dilceu Sperafico, que \"altera a Lei n\u00ba 9.456, de 25 de abril de 1997, que institui a Lei de Prote\u00e7\u00e3o de Cultivares e d\u00e1 outras provid\u00eancias\"",
+                "sigla": "PL082715",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537503"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50288"
+    },
+    "50289": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T17:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50289,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 14",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DEFESA DOS DIREITOS DA PESSOA IDOSA",
+                "id": 537871,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Defesa dos Direitos da Pessoa Idosa",
+                "sigla": "CIDOSO",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537871"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50289"
+    },
+    "50290": {
+        "dataHoraFim": "2017-11-23T15:06",
+        "dataHoraInicio": "2017-11-23T11:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Sess\u00e3o Deliberativa",
+        "id": 50290,
+        "localCamara": {
+            "andar": null,
+            "nome": "Plen\u00e1rio da C\u00e2mara dos Deputados",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PLEN",
+                "id": 180,
+                "idTipoOrgao": 1,
+                "nome": "PLEN\u00c1RIO",
+                "sigla": "PLEN",
+                "tipoOrgao": "Comiss\u00e3o Diretora",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+            }
+        ],
+        "titulo": "Sess\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50290"
+    },
+    "50291": {
+        "dataHoraFim": "2017-11-23T13:41",
+        "dataHoraInicio": "2017-11-23T12:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Sess\u00e3o N\u00e3o Deliberativa Solene",
+        "id": 50291,
+        "localCamara": {
+            "andar": null,
+            "nome": "Plen\u00e1rio da C\u00e2mara dos Deputados",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PLEN",
+                "id": 180,
+                "idTipoOrgao": 1,
+                "nome": "PLEN\u00c1RIO",
+                "sigla": "PLEN",
+                "tipoOrgao": "Comiss\u00e3o Diretora",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+            }
+        ],
+        "titulo": "Sess\u00e3o N\u00e3o Deliberativa Solene",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50291"
+    },
+    "50292": {
+        "dataHoraFim": "2017-11-23T19:56",
+        "dataHoraInicio": "2017-11-23T16:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Sess\u00e3o N\u00e3o Deliberativa de Debates",
+        "id": 50292,
+        "localCamara": {
+            "andar": null,
+            "nome": "Plen\u00e1rio da C\u00e2mara dos Deputados",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PLEN",
+                "id": 180,
+                "idTipoOrgao": 1,
+                "nome": "PLEN\u00c1RIO",
+                "sigla": "PLEN",
+                "tipoOrgao": "Comiss\u00e3o Diretora",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+            }
+        ],
+        "titulo": "Sess\u00e3o N\u00e3o Deliberativa de Debates",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50292"
+    },
+    "50293": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50293,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 12",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "TRABALHO, ADMINISTRA\u00c7\u00c3O E SERVI\u00c7O P\u00daBLICO",
+                "id": 2015,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico",
+                "sigla": "CTASP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50293"
+    },
+    "50294": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50294,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 02",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "COMISS\u00c3O MISTA DE OR\u00c7AMENTO",
+                "id": 6855,
+                "idTipoOrgao": 6,
+                "nome": "Comiss\u00e3o Mista de Planos, Or\u00e7amentos P\u00fablicos e Fiscaliza\u00e7\u00e3o",
+                "sigla": "CMO",
+                "tipoOrgao": "Comiss\u00e3o Mista Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6855"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50294"
+    },
+    "50295": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50295,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 10",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PL 8456/17 - ALTERA A CARGA TRIBUT\u00c1RIA",
+                "id": 538083,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer ao Projeto de Lei n\u00ba 8456, de 2017, do Poder Executivo, que \"altera a Lei n\u00ba 12.546, de 14 de dezembro de 2011, quanto \u00e0 contribui\u00e7\u00e3o previdenci\u00e1ria sobre a receita bruta, a Lei n\u00ba 8.212, de 24 de julho de 1991, a Lei n\u00ba 8.218, de 29 de agosto de 1991, a Lei n\u00ba 9.430, de 27 de dezembro de 1996, a Lei n\u00ba 10.833, de 29 de dezembro de 2003, e a Lei n\u00ba 11.457, de 16 de mar\u00e7o de 2007\"",
+                "sigla": "PL845617",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538083"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50295"
+    },
+    "50297": {
+        "dataHoraFim": "2017-11-23T17:15",
+        "dataHoraInicio": "2017-11-23T10:30",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Outro Evento",
+        "id": 50297,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 09",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "Eventos",
+                "id": 100950,
+                "idTipoOrgao": 3,
+                "nome": "Eventos",
+                "sigla": "EVENTOS",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100950"
+            }
+        ],
+        "titulo": "Outro Evento",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50297"
+    },
+    "50298": {
+        "dataHoraFim": "2017-11-22T14:37",
+        "dataHoraInicio": "2017-11-22T14:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Reuni\u00e3o T\u00e9cnica",
+        "id": 50298,
+        "localCamara": {
+            "andar": null,
+            "nome": "Sala da Presid\u00eancia da Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico.",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "TRABALHO, ADMINISTRA\u00c7\u00c3O E SERVI\u00c7O P\u00daBLICO",
+                "id": 2015,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico",
+                "sigla": "CTASP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+            }
+        ],
+        "titulo": "Reuni\u00e3o T\u00e9cnica",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50298"
+    },
+    "50299": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T11:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50299,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 02",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "COMISS\u00c3O MISTA DE OR\u00c7AMENTO",
+                "id": 6855,
+                "idTipoOrgao": 6,
+                "nome": "Comiss\u00e3o Mista de Planos, Or\u00e7amentos P\u00fablicos e Fiscaliza\u00e7\u00e3o",
+                "sigla": "CMO",
+                "tipoOrgao": "Comiss\u00e3o Mista Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6855"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50299"
+    },
+    "50300": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T19:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50300,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 02",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "COMISS\u00c3O MISTA DE OR\u00c7AMENTO",
+                "id": 6855,
+                "idTipoOrgao": 6,
+                "nome": "Comiss\u00e3o Mista de Planos, Or\u00e7amentos P\u00fablicos e Fiscaliza\u00e7\u00e3o",
+                "sigla": "CMO",
+                "tipoOrgao": "Comiss\u00e3o Mista Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6855"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50300"
+    },
+    "50301": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-30T16:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50301,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 02",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "COMISS\u00c3O MISTA DE OR\u00c7AMENTO",
+                "id": 6855,
+                "idTipoOrgao": 6,
+                "nome": "Comiss\u00e3o Mista de Planos, Or\u00e7amentos P\u00fablicos e Fiscaliza\u00e7\u00e3o",
+                "sigla": "CMO",
+                "tipoOrgao": "Comiss\u00e3o Mista Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6855"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50301"
+    },
+    "50302": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50302,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 01",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA",
+                "id": 2003,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania",
+                "sigla": "CCJC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50302"
+    },
+    "50303": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50303,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 04",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "FINAN\u00c7AS E TRIBUTA\u00c7\u00c3O",
+                "id": 2010,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o",
+                "sigla": "CFT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50303"
+    },
+    "50304": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50304,
+        "localCamara": {
+            "andar": null,
+            "nome": "A Definir",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CONSELHO DE \u00c9TICA E DECORO PARLAMENTAR",
+                "id": 5971,
+                "idTipoOrgao": 11,
+                "nome": "Conselho de \u00c9tica e Decoro Parlamentar da C\u00e2mara dos Deputados",
+                "sigla": "COETICA",
+                "tipoOrgao": "Conselho",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5971"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50304"
+    },
+    "50306": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50306,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 15",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "INTEGRA\u00c7\u00c3O NACIONAL, DESENV. REGIONAL E AMAZ\u00d4NIA",
+                "id": 2017,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Integra\u00e7\u00e3o Nacional, Desenvolvimento Regional e da Amaz\u00f4nia",
+                "sigla": "CINDRA",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50306"
+    },
+    "50307": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50307,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 16",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "DESENVOLVIMENTO URBANO",
+                "id": 2006,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Desenvolvimento Urbano",
+                "sigla": "CDU",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50307"
+    },
+    "50309": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-24T11:00",
+        "descricaoSituacao": "Encerrada(Comunicado)",
+        "descricaoTipo": "Sess\u00e3o N\u00e3o Deliberativa de Debates",
+        "id": 50309,
+        "localCamara": {
+            "andar": null,
+            "nome": "Plen\u00e1rio da C\u00e2mara dos Deputados",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PLEN",
+                "id": 180,
+                "idTipoOrgao": 1,
+                "nome": "PLEN\u00c1RIO",
+                "sigla": "PLEN",
+                "tipoOrgao": "Comiss\u00e3o Diretora",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+            }
+        ],
+        "titulo": "Sess\u00e3o N\u00e3o Deliberativa de Debates",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50309"
+    },
+    "50310": {
+        "dataHoraFim": "2017-11-24T18:34",
+        "dataHoraInicio": "2017-11-24T17:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Sess\u00e3o N\u00e3o Deliberativa Solene",
+        "id": 50310,
+        "localCamara": {
+            "andar": null,
+            "nome": "Plen\u00e1rio da C\u00e2mara dos Deputados",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PLEN",
+                "id": 180,
+                "idTipoOrgao": 1,
+                "nome": "PLEN\u00c1RIO",
+                "sigla": "PLEN",
+                "tipoOrgao": "Comiss\u00e3o Diretora",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+            }
+        ],
+        "titulo": "Sess\u00e3o N\u00e3o Deliberativa Solene",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50310"
+    },
+    "50311": {
+        "dataHoraFim": "2017-11-22T15:30",
+        "dataHoraInicio": "2017-11-22T14:50",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Reuni\u00e3o T\u00e9cnica",
+        "id": 50311,
+        "localCamara": {
+            "andar": null,
+            "nome": "Sala da Presid\u00eancia da CTASP",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "TRABALHO, ADMINISTRA\u00c7\u00c3O E SERVI\u00c7O P\u00daBLICO",
+                "id": 2015,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico",
+                "sigla": "CTASP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+            }
+        ],
+        "titulo": "Reuni\u00e3o T\u00e9cnica",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50311"
+    },
+    "50315": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T13:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50315,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 03",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "RELA\u00c7\u00d5ES EXTERIORES E DE DEFESA NACIONAL",
+                "id": 2018,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Rela\u00e7\u00f5es Exteriores e de Defesa Nacional",
+                "sigla": "CREDN",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50315"
+    },
+    "50316": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-24T12:00",
+        "descricaoSituacao": "N\u00e3o Confirmada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50316,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 01",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PEC 039/07 - \u00c1GUA COMO DIREITO SOCIAL",
+                "id": 537381,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 39-A de 2007, do Sr. Raimundo Gomes de Matos e outros, que \"d\u00e1 nova reda\u00e7\u00e3o ao art. 6\u00ba da Constitui\u00e7\u00e3o Federal\" (inclui a \u00e1gua como direito social), e apensada",
+                "sigla": "PEC03907",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537381"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50316"
+    },
+    "50317": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T11:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50317,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 01",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA",
+                "id": 2003,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania",
+                "sigla": "CCJC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50317"
+    },
+    "50318": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50318,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 01",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA",
+                "id": 2003,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania",
+                "sigla": "CCJC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50318"
+    },
+    "50319": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-30T11:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50319,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 01",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA",
+                "id": 2003,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania",
+                "sigla": "CCJC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50319"
+    },
+    "50320": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T15:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50320,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 03",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "LEGISLA\u00c7\u00c3O PARTICIPATIVA",
+                "id": 5438,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Legisla\u00e7\u00e3o Participativa",
+                "sigla": "CLP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5438"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50320"
+    },
+    "50321": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Debate",
+        "id": 50321,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 03",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "LEGISLA\u00c7\u00c3O PARTICIPATIVA",
+                "id": 5438,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Legisla\u00e7\u00e3o Participativa",
+                "sigla": "CLP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5438"
+            }
+        ],
+        "titulo": "Debate",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50321"
+    },
+    "50322": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:30",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50322,
+        "localCamara": {
+            "andar": null,
+            "nome": "A Definir",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PL 0827/15 - LEI DE PROTE\u00c7\u00c3O DE CULTIVARES",
+                "id": 537503,
+                "idTipoOrgao": 3,
+                "nome": "Comiss\u00e3o Especial destinada a proferir parecer ao Projeto de Lei n\u00ba 827, de 2015, do Sr. Dilceu Sperafico, que \"altera a Lei n\u00ba 9.456, de 25 de abril de 1997, que institui a Lei de Prote\u00e7\u00e3o de Cultivares e d\u00e1 outras provid\u00eancias\"",
+                "sigla": "PL082715",
+                "tipoOrgao": "Comiss\u00e3o Especial",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537503"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50322"
+    },
+    "50326": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T17:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Outro Evento",
+        "id": 50326,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 04",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "ESPORTE",
+                "id": 537236,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o do Esporte",
+                "sigla": "CESPO",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537236"
+            }
+        ],
+        "titulo": "Outro Evento",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50326"
+    },
+    "50327": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50327,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 11",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "VIA\u00c7\u00c3O E TRANSPORTES",
+                "id": 2016,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Via\u00e7\u00e3o e Transportes",
+                "sigla": "CVT",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50327"
+    },
+    "50329": {
+        "dataHoraFim": "2017-11-27T14:22",
+        "dataHoraInicio": "2017-11-27T13:00",
+        "descricaoSituacao": "Encerrada",
+        "descricaoTipo": "Sess\u00e3o N\u00e3o Deliberativa Solene",
+        "id": 50329,
+        "localCamara": {
+            "andar": null,
+            "nome": "Plen\u00e1rio da C\u00e2mara dos Deputados",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PLEN",
+                "id": 180,
+                "idTipoOrgao": 1,
+                "nome": "PLEN\u00c1RIO",
+                "sigla": "PLEN",
+                "tipoOrgao": "Comiss\u00e3o Diretora",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+            }
+        ],
+        "titulo": "Sess\u00e3o N\u00e3o Deliberativa Solene",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50329"
+    },
+    "50330": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-27T16:00",
+        "descricaoSituacao": "Encerrada (Termo)",
+        "descricaoTipo": "Sess\u00e3o N\u00e3o Deliberativa de Debates",
+        "id": 50330,
+        "localCamara": {
+            "andar": null,
+            "nome": "Plen\u00e1rio da C\u00e2mara dos Deputados",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PLEN",
+                "id": 180,
+                "idTipoOrgao": 1,
+                "nome": "PLEN\u00c1RIO",
+                "sigla": "PLEN",
+                "tipoOrgao": "Comiss\u00e3o Diretora",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+            }
+        ],
+        "titulo": "Sess\u00e3o N\u00e3o Deliberativa de Debates",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50330"
+    },
+    "50331": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-27T18:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Sess\u00e3o Deliberativa",
+        "id": 50331,
+        "localCamara": {
+            "andar": null,
+            "nome": "Plen\u00e1rio da C\u00e2mara dos Deputados",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "PLEN",
+                "id": 180,
+                "idTipoOrgao": 1,
+                "nome": "PLEN\u00c1RIO",
+                "sigla": "PLEN",
+                "tipoOrgao": "Comiss\u00e3o Diretora",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180"
+            }
+        ],
+        "titulo": "Sess\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50331"
+    },
+    "50332": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T12:45",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50332,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 09",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CFFC - SUB. ESPECIAL RECURSOS P\u00daBLICOS PAR E PAC",
+                "id": 538082,
+                "idTipoOrgao": 25,
+                "nome": "Subcomiss\u00e3o Especial para Acompanhamento e Fiscaliza\u00e7\u00e3o dos Recursos P\u00fablicos Federais Aplicados por Estados e Munic\u00edpios no \u00c2mbito do PAR e PAC",
+                "sigla": "SUBFNDE",
+                "tipoOrgao": "Subcomiss\u00e3o",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/538082"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50332"
+    },
+    "50334": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-30T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50334,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 12",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "TRABALHO, ADMINISTRA\u00c7\u00c3O E SERVI\u00c7O P\u00daBLICO",
+                "id": 2015,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico",
+                "sigla": "CTASP",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50334"
+    },
+    "50336": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50336,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 09",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "FISCALIZA\u00c7\u00c3O FINANCEIRA E CONTROLE",
+                "id": 2011,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Fiscaliza\u00e7\u00e3o Financeira e Controle",
+                "sigla": "CFFC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2011"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50336"
+    },
+    "50338": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T17:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50338,
+        "localCamara": {
+            "andar": null,
+            "nome": "A Definir",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "CONSTRU\u00c7\u00c3O DA FERROVIA NOVA TRANSNORDESTINA",
+                "id": 537794,
+                "idTipoOrgao": 5,
+                "nome": "Comiss\u00e3o Externa com o objetivo de acompanhar in loco a situa\u00e7\u00e3o em que se encontram as obras que comp\u00f5em o projeto de constru\u00e7\u00e3o da ferrovia Nova Transnordestina e quais as provid\u00eancias que foram e/ou ser\u00e3o adotadas para regularizar a execu\u00e7\u00e3o do projeto, tendo em vista as irregularidades e as responsabilidades apuradas em auditoria realizada pelo TCU",
+                "sigla": "CEXTRANE",
+                "tipoOrgao": "Comiss\u00e3o Externa",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537794"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50338"
+    },
+    "50340": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-28T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Audi\u00eancia P\u00fablica",
+        "id": 50340,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 09",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "FISCALIZA\u00c7\u00c3O FINANCEIRA E CONTROLE",
+                "id": 2011,
+                "idTipoOrgao": 2,
+                "nome": "Comiss\u00e3o de Fiscaliza\u00e7\u00e3o Financeira e Controle",
+                "sigla": "CFFC",
+                "tipoOrgao": "Comiss\u00e3o Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2011"
+            }
+        ],
+        "titulo": "Audi\u00eancia P\u00fablica Ordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50340"
+    },
+    "50341": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-29T16:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50341,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 02",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "COMISS\u00c3O MISTA DE OR\u00c7AMENTO",
+                "id": 6855,
+                "idTipoOrgao": 6,
+                "nome": "Comiss\u00e3o Mista de Planos, Or\u00e7amentos P\u00fablicos e Fiscaliza\u00e7\u00e3o",
+                "sigla": "CMO",
+                "tipoOrgao": "Comiss\u00e3o Mista Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6855"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50341"
+    },
+    "50342": {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2017-11-30T12:00",
+        "descricaoSituacao": "Convocada",
+        "descricaoTipo": "Reuni\u00e3o Deliberativa",
+        "id": 50342,
+        "localCamara": {
+            "andar": null,
+            "nome": "Anexo II, Plen\u00e1rio 02",
+            "predio": null,
+            "sala": null
+        },
+        "localExterno": null,
+        "orgaos": [
+            {
+                "apelido": "COMISS\u00c3O MISTA DE OR\u00c7AMENTO",
+                "id": 6855,
+                "idTipoOrgao": 6,
+                "nome": "Comiss\u00e3o Mista de Planos, Or\u00e7amentos P\u00fablicos e Fiscaliza\u00e7\u00e3o",
+                "sigla": "CMO",
+                "tipoOrgao": "Comiss\u00e3o Mista Permanente",
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6855"
+            }
+        ],
+        "titulo": "Reuni\u00e3o Deliberativa Extraordin\u00e1ria",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/50342"
+    }
+}
