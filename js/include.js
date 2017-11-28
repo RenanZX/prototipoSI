@@ -3,7 +3,6 @@ window.onload = function(){
 	if (head!= null){
 		document.getElementById("header").innerHTML = '\
 		\
-		<meta charset="utf-8">\
 		<title>Prototipo</title>\
 		<link rel="stylesheet" type="text/css" href="css/estilo.css"/>\
 		<link rel="stylesheet" href="css/circle.css">\
@@ -29,7 +28,9 @@ window.onload = function(){
 			</ul>\
 		</nav>\
 		</br></br></br>\
-		<p style="color:white;">Nome do Partido</br>Dados do governador Atual</p>\
+		<p style="color:white;" id="dep-information">\
+			Dados do político</br></br>\
+			<img src="dados/Rollemberg.jpg"/></br>Nome do Partido</br>Dados do governador Atual</p>\
 	\
 	';
 }
