@@ -6,6 +6,8 @@ window.onload = function(){
 		<title>Prototipo</title>\
 		<link rel="stylesheet" type="text/css" href="css/estilo.css"/>\
 		<link rel="stylesheet" href="css/circle.css">\
+		<meta name="viewport" content="width=device-width, initial-scale=1">\
+		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">\
 		\
 		';
 	}
@@ -33,4 +35,24 @@ window.onload = function(){
 			<img src="dados/Rollemberg.jpg"/></br>Nome do Partido</br>Dados do governador Atual</p>\
 	\
 	';
+
+	function move(id,limit) {
+  		var elem = document.getElementById(id);   
+  		var width = 0;
+  		var id = setInterval(frame, 40);
+  		function frame() {
+    		if (width >= limit) {
+      			clearInterval(id);
+    		} else {
+      			width++; 
+     			elem.style.width = width + '%'; 
+     			elem.innerHTML = width * 1  + '%';
+    		}
+  		}
+	}
+
+	for(var i=0;i<100;i++){
+		move(i+"p",i);
+	}
+
 }
